@@ -14,6 +14,7 @@ public class PurchaseAction extends Action {
 		HttpSession session=request.getSession();
 
 		String name=request.getParameter("name");
+		String postal = request.getParameter("postal");
 		String address=request.getParameter("address");
 		if (name.isEmpty() || address.isEmpty()) {
 			return "purchase-error-empty.jsp";
@@ -21,7 +22,7 @@ public class PurchaseAction extends Action {
 
 		PurchaseDAO dao=new PurchaseDAO();
 		List<Item> cart=(List<Item>)session.getAttribute("cart");
-		if (cart == null || !dao.insert(cart, name, address)) {
+		if (cart == null || !dao.insert(cart, name, postal,address)) {
 			return "purchase-error-insert.jsp";
 		}
 
@@ -29,3 +30,4 @@ public class PurchaseAction extends Action {
 		return "purchase-out.jsp";
 	}
 }
+
