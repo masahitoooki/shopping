@@ -33,17 +33,5 @@ public class Product1DAO extends DAO {
 		return list;
 	}
 
-	public int insert(Product1 product1) throws Exception {
-		Connection con=getConnection();
-
-		PreparedStatement st=con.prepareStatement("insert into product1 values(null, ?, ?)");
-		st.setString(1, product1.getName());
-		st.setInt(2, product1.getPrice());
-		
-		int line=st.executeUpdate();
-
-		st.close();
-		con.close();
-		return line;
-	}
+	
 }
