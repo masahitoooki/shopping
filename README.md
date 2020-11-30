@@ -2,31 +2,33 @@
 ショッピングサイト風
 
 # 【ホーム画面】
-![workspace - Eclipse 2020_11_29 7_59_38 (2)](https://user-images.githubusercontent.com/58727760/100527806-4cdc2880-3219-11eb-86ad-af0738661656.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_03_36 (2)](https://user-images.githubusercontent.com/58727760/100557699-2b00a580-32ee-11eb-97b3-b6deb752775a.png)
+
 
 # 【商品一覧】
-![workspace - Eclipse 2020_11_29 7_17_29 (2)](https://user-images.githubusercontent.com/58727760/100527926-7c3f6500-321a-11eb-995c-496643d67e04.png)
-
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_03_46 (2)](https://user-images.githubusercontent.com/58727760/100557733-571c2680-32ee-11eb-9b86-557f50fee2b7.png)
 
 # 【商品選択】
-![workspace - Eclipse 2020_11_29 7_17_46 (2)](https://user-images.githubusercontent.com/58727760/100527941-9c6f2400-321a-11eb-9595-792fc7144aea.png)
-
-# 【ログイン】
-
-![workspace - Eclipse 2020_11_29 7_17_59 (2)](https://user-images.githubusercontent.com/58727760/100528008-4d75be80-321b-11eb-8327-a3888b6cf95d.png)
-
-![workspace - Eclipse 2020_11_29 7_18_09 (2)](https://user-images.githubusercontent.com/58727760/100528011-52d30900-321b-11eb-9dfc-7a4e4fba2618.png)
-
-![workspace - Eclipse 2020_11_29 7_21_27 (2)](https://user-images.githubusercontent.com/58727760/100528013-55356300-321b-11eb-9cce-8d61fbdc575a.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_03_59 (2)](https://user-images.githubusercontent.com/58727760/100557755-6f8c4100-32ee-11eb-888b-6cf9b705a75f.png)
 
 # 【購入画面】
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_29 16_33_48 (2)](https://user-images.githubusercontent.com/58727760/100536171-019a3800-3262-11eb-9b2c-63983ca806f2.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_17_12 (2)](https://user-images.githubusercontent.com/58727760/100557788-92b6f080-32ee-11eb-8421-b4cb1429f506.png)
 
-![workspace - Eclipse 2020_11_29 7_21_49 (2)](https://user-images.githubusercontent.com/58727760/100528032-831aa780-321b-11eb-9ed9-4ecae5e1f465.png)
 
-![workspace - Eclipse 2020_11_29 7_22_07 (2)](https://user-images.githubusercontent.com/58727760/100528036-92015a00-321b-11eb-99d6-d994a873bec7.png)
 
+
+# 【支払い方法】
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_04_39 (2)](https://user-images.githubusercontent.com/58727760/100557804-ad896500-32ee-11eb-9763-5a04e34fdcb6.png)
+
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_04_54 (2)](https://user-images.githubusercontent.com/58727760/100557812-b0845580-32ee-11eb-8f4d-0116a3b8077b.png)
+
+# 【ログイン】
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_18_43 (2)](https://user-images.githubusercontent.com/58727760/100557870-048f3a00-32ef-11eb-9514-dcf173f68889.png)
+
+
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_19_09 (2)](https://user-images.githubusercontent.com/58727760/100557872-06f19400-32ef-11eb-9674-8148f448adcd.png)
 
 # 【購入確定】
-![workspace - Eclipse 2020_11_29 7_23_55 (2)](https://user-images.githubusercontent.com/58727760/100528059-bfe69e80-321b-11eb-97db-73ae65a81f07.png)
 
+
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_17_46 (2)](https://user-images.githubusercontent.com/58727760/100557911-44562180-32ef-11eb-9a95-6faad9efc145.png)
