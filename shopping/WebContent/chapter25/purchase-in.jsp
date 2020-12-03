@@ -1,6 +1,8 @@
 <%@page contentType="text/html; charset=UTF-8" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@include file="menu.jsp" %>
+<link rel="stylesheet" href="../css/NewFile.css">
+
 <title>購入画面</title>
 
 
@@ -24,6 +26,7 @@
 
 <form action="Purchase.action" method="post">
 <p>お名前 <input type="text" name="name"></p>
+<p>郵便番号<input type="text" name="postal"></p>
 <p>ご住所 <input type="text" name="address"></p>
 <p><input type="submit" value="購入を確定"></p>
 </form>
