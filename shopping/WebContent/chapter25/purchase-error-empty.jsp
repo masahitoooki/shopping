@@ -1,7 +1,7 @@
 <%@page contentType="text/html; charset=UTF-8" %>
-<%@include file="../header.html" %>
 <%@include file="menu.jsp" %>
+<link rel="stylesheet" href="../css/NewFile.css">
 
-名前と住所を正しく入力してください。
+<title>正しく入力してください</title>
 
-<%@include file="../footer.html" %>
+<p>名前と住所を正しく入力してください。</p>
