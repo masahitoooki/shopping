@@ -15,8 +15,7 @@
 
 
 # 【購入画面】
-[workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_03 12_00_52 (2)](https://user-images.githubusercontent.com/58727760/100958218-47efdf80-355f-11eb-98e7-ea8200b7fa04.png)
-
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_03 12_00_52 (2)](https://user-images.githubusercontent.com/58727760/100958218-47efdf80-355f-11eb-98e7-ea8200b7fa04.png)
 
 
 
