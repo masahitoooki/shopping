@@ -1,0 +1,18 @@
+@charset "UTF-8";
+   
+ body {
+    width: 100%;
+    background-color: hsl(0, 0%, 97%);
+    font-family: Meiryo, sans-serif;
+}
+
+p {
+    font-size:1.5rem;
+}
+
+
+th,td {
+    border : .2rem solid #ccc;
+}
+
+
