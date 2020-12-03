@@ -1,7 +1,7 @@
 <%@page contentType="text/html; charset=UTF-8" %>
-<%@include file="../header.html" %>
 <%@include file="menu.jsp" %>
+<link rel="stylesheet" href="../css/NewFile.css">
 
-カートに商品がありません。
+<title>商品がありません</title>
 
-<%@include file="../footer.html" %>
+<p>カートに商品がありません。</p>
