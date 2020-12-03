@@ -3,7 +3,7 @@
 ショッピングサイト風
 
 # 【ホーム画面】
-![workspace - http___localhost_8080_book_chapter25_index.jsp - Eclipse 2020_12_03 11_13_55](https://user-images.githubusercontent.com/58727760/100557699-2b00a580-32ee-11eb-97b3-b6deb752775a.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_03 11_13_55](https://user-images.githubusercontent.com/58727760/100955731-68696b00-355a-11eb-9162-222d82908c9a.png)
 
 
 # 【商品一覧】
