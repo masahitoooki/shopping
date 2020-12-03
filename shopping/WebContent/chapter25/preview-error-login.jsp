@@ -1,9 +1,11 @@
 <%@page contentType="text/html; charset=UTF-8" %>
-<%@include file="../header.html" %>
 <%@include file="menu.jsp" %>
+<link rel="stylesheet" href="../css/NewFile.css">
 
-購入するには
+<title>ログインしてからお願いします</title>
+
+<p>購入するには
 <a href="../chapter24/login-in.jsp">ログイン</a>
-してください。
+してください。</p>
 
 <%@include file="../footer.html" %>
