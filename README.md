@@ -11,7 +11,8 @@
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_03 11_10_39 (2)](https://user-images.githubusercontent.com/58727760/100956118-21c84080-355b-11eb-9269-bd6dc69607aa.png)
 
 # 【商品選択】
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_03_59 (2)](https://user-images.githubusercontent.com/58727760/100557755-6f8c4100-32ee-11eb-888b-6cf9b705a75f.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_03 11_10_49 (2)](https://user-images.githubusercontent.com/58727760/100956196-4e7c5800-355b-11eb-823d-c40e45f8a666.png)
+
 
 # 【購入画面】
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_17_12 (2)](https://user-images.githubusercontent.com/58727760/100557788-92b6f080-32ee-11eb-8421-b4cb1429f506.png)
