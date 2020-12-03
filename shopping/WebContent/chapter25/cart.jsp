@@ -1,6 +1,7 @@
 <%@page contentType="text/html; charset=UTF-8" %>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@include file="menu.jsp" %>
+<link rel="stylesheet" href="../css/NewFile.css">
 
 <title>カートの中</title>
 
@@ -26,7 +27,6 @@
 	<td>${item.count}個</td>
 	
 	<td>
-	
 	<a href="CartRemove.action?id=${item.product1.id}">カートから削除</a>
 	</td>
 	
@@ -39,3 +39,4 @@
 <br>
 
 <%@include file="../footer.html" %>
+
