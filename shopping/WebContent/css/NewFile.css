@@ -15,7 +15,7 @@ a{
   text-align     : center;      
   cursor         : pointer;     
   padding        : 8px 8px;   
-  background     : #000066;     
+  background     : #3f51f5;     
   color          : #ffffff;     
   line-height    : 1em;         
   transition     : .3s;         
@@ -52,7 +52,7 @@ td {
 .btn {
   display        : inline-block;
   min-width      : 80px;
-  padding        : 10px 3px;
+  padding        : 13px 3px;
   margin-bottom  : 1em;
   border         : none;
   border-radius  :25px;
@@ -66,9 +66,33 @@ td {
   
 }
 
-.btn:hover{
-color:#666;
+.btn:hover {
+    background-color: #00ffff;
+    color: #fff; 
+ }
+
+.text{
+  display        : inline-block;
+  min-width      : 80px;
+  padding        : 8px 3px;
+  margin-bottom  : 1em;
+  border         : 2px solid #aaa;;
+  border-radius  :　25px;
+  font-size      : 1em;
+  line-height    : 1.2em;
+  
+  text-decoration: none;
+  
+  background     : #ffffff;
+  color          : #000000; 
+  
 }
+
+.text:focus {
+ 	border: solid 2px #2331dc;
+ 	box-shadow: 0 0 7px #3498db;
+ }
+
 
 input[type="text"].form-control{
 	
@@ -84,11 +108,13 @@ input[type="text"].form-control{
   border-radius  : 25px;      
   color          : #333;                                
   font-size      : 17px;   
-  
+  background-image : url(original.png);  
+  background-repeat  : no-repeat;       
+  background-position:  right;      
+  background-size    : auto 60%;        
+  background-color   : #fff;                    
 }
 input[type="text"].form-control:focus{
-	border: solid 2px #00ffff;
+	border: solid 2px #2331dc;
+	box-shadow: 0 0 7px #0000a0;
 }
-
-
-
