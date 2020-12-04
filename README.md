@@ -19,7 +19,7 @@
 
 
 # 【支払い方法】
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_04_39 (2)](https://user-images.githubusercontent.com/58727760/100557804-ad896500-32ee-11eb-9763-5a04e34fdcb6.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_48_50 (2)](https://user-images.githubusercontent.com/58727760/101116574-bea4df80-3628-11eb-9b82-54f2e4593246.png)
 
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_04_54 (2)](https://user-images.githubusercontent.com/58727760/100557812-b0845580-32ee-11eb-8f4d-0116a3b8077b.png)
 
