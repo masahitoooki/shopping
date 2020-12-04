@@ -31,7 +31,5 @@
 
 
 # 【購入確定】
-
-
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_11_30 9_17_46 (2)](https://user-images.githubusercontent.com/58727760/100557911-44562180-32ef-11eb-9a95-6faad9efc145.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_50_31 (2)](https://user-images.githubusercontent.com/58727760/101116843-383ccd80-3629-11eb-9af8-eeb6b8a62bcc.png)
 
