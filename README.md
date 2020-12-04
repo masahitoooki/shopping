@@ -6,8 +6,7 @@
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_47_54 (2)](https://user-images.githubusercontent.com/58727760/101116413-65d54700-3628-11eb-8916-fb2246919a86.png)
 
 # 【商品一覧】
-
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_48_08 (2)](https://user-images.githubusercontent.com/58727760/101116447-771e5380-3628-11eb-86a3-b211825e5597.png)
+![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_05 8_27_25 (2)](https://user-images.githubusercontent.com/58727760/101225084-e56c2000-36d3-11eb-9484-14f285863201.png)
 
 # 【商品選択】
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_48_29 (2)](https://user-images.githubusercontent.com/58727760/101116495-9321f500-3628-11eb-81f5-7629a92aabc1.png)
