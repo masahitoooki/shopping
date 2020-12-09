@@ -1,5 +1,44 @@
 @charset "UTF-8";
-   
+
+
+div{
+   overflow:hidden;
+}
+.fade-in{ 
+  font-size:40px;
+　opacity:0;
+  animation-name:sample03;
+  animation-duration:5s; 
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+}
+@keyframes sample03 {
+0% {
+ opacity: 0;
+ transform: translateX(-50px);
+}
+  50%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+ 100% {
+ opacity:0;
+ transform: translateX(50px);
+ } 
+}
+
+.item_text{
+  font-size:2rem;
+  display:inline-block;
+  animation: key1 .3s ease infinite alternate;
+}
+
+@keyframes key1{
+  0% {transform: translateY(0px);}
+  100% {transform: translateY(-10px);}
+}
+
+
  body {
     width           : 100%;
     background-color: hsl(0, 0%, 97%);
@@ -108,13 +147,14 @@ input[type="text"].form-control{
   border-radius  : 25px;      
   color          : #333;                                
   font-size      : 17px;   
-  background-image : url(original.png);  
-  background-repeat  : no-repeat;       
-  background-position:  right;      
-  background-size    : auto 60%;        
+  background-image : url(original.png);  /* 背景画像：虫眼鏡(*1)*/
+  background-repeat  : no-repeat;        /* 背景は繰り返さない  */
+  background-position:  right;       /* 背景の位置          */
+  background-size    : auto 60%;         /* 背景のサイズ        */
   background-color   : #fff;                    
 }
 input[type="text"].form-control:focus{
 	border: solid 2px #2331dc;
 	box-shadow: 0 0 7px #0000a0;
 }
+
