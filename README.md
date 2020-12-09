@@ -3,7 +3,7 @@
 ショッピングサイト風
 
 # 【ホーム画面】
-![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_04 11_47_54 (2)](https://user-images.githubusercontent.com/58727760/101116413-65d54700-3628-11eb-8916-fb2246919a86.png)
+![ナックスだよ - Google Chrome 2020_12_09 15_43_05 (2)](https://user-images.githubusercontent.com/58727760/101594654-68bfa580-3a35-11eb-9154-feb490f00c9d.png)
 
 # 【商品一覧】
 ![workspace - http___localhost_8080_book_chapter25_index jsp - Eclipse 2020_12_05 8_27_25 (2)](https://user-images.githubusercontent.com/58727760/101225084-e56c2000-36d3-11eb-9484-14f285863201.png)
