@@ -1,32 +1,6 @@
 @charset "UTF-8";
 
 
-div{
-   overflow:hidden;
-}
-.fade-in{ 
-  font-size:40px;
-　opacity:0;
-  animation-name:sample03;
-  animation-duration:5s; 
-  animation-iteration-count: infinite;
-  animation-fill-mode: forwards;
-}
-@keyframes sample03 {
-0% {
- opacity: 0;
- transform: translateX(-50px);
-}
-  50%{
-    opacity: 1;
-    transform: translateX(0);
-  }
- 100% {
- opacity:0;
- transform: translateX(50px);
- } 
-}
-
 .item_text{
   font-size:2rem;
   display:inline-block;
