@@ -1,6 +1,6 @@
 
 # shopping
-ショッピングサイト風
+ショッピングサイト
 
 # 【ホーム画面】
 ![ナックスだよ - Google Chrome 2020_12_09 15_43_05 (2)](https://user-images.githubusercontent.com/58727760/101594654-68bfa580-3a35-11eb-9154-feb490f00c9d.png)
